@@ -10,7 +10,7 @@ spring.datasource.username=root\
 spring.datasource.password=123456\
 spring.datasource.driver-class-name = com.mysql.jdbc.Driver\
 spring.jpa.hibernate.ddl-auto=update\
-spring.jpa.show-sql=true\
+spring.jpa.show-sql=true
 
 # Insert User
 *METHOD:*&nbsp;&nbsp; POST \
