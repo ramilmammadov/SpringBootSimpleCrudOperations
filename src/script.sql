@@ -8,5 +8,5 @@ CREATE TABLE `user` (
 
 
 LOCK TABLES `user` WRITE;
-INSERT INTO `user` VALUES (1,'test','test@gmail.com');
+INSERT INTO `user` VALUES (1,'Ramil Mammadov','ramilmammadov95@gmail.com');
 UNLOCK TABLES;
