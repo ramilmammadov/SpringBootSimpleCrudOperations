@@ -5,7 +5,7 @@ import javax.persistence.*;
 @Entity
 @Table(name = "user")
 public class User {
-    @Id
+    @Id  //Makes id primary key
     @GeneratedValue
     @Column(name = "id")
     private int id;
